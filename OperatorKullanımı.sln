@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AritmetikselOperatorler", "OperatorKullanımı\AritmetikselOperatorler.csproj", "{016043CC-1E79-4445-9396-91AF494EDCDC}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorlerAlistirma2", "OperatorlerAlistirma2\OperatorlerAlistirma2.csproj", "{EA0140B5-214D-40AA-99BE-21E362E18EA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorAlistirma3", "OperatorAlistirma3\OperatorAlistirma3.csproj", "{CD98A492-A85C-4AA9-BDE2-78B057AAD7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorAlistirma4", "OperatorAlistirma4\OperatorAlistirma4.csproj", "{1A8ECE26-E87A-4511-9032-519B5ED5AB90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CD98A492-A85C-4AA9-BDE2-78B057AAD7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD98A492-A85C-4AA9-BDE2-78B057AAD7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD98A492-A85C-4AA9-BDE2-78B057AAD7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8ECE26-E87A-4511-9032-519B5ED5AB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8ECE26-E87A-4511-9032-519B5ED5AB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8ECE26-E87A-4511-9032-519B5ED5AB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8ECE26-E87A-4511-9032-519B5ED5AB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
