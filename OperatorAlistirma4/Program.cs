@@ -10,6 +10,18 @@ namespace OperatorAlistirma4
     {
         static void Main(string[] args)
         {
+            int sayi = 13;
+
+
+            bool sonuc = sayi % 2 == 0;
+
+           
+
+           
+
+           
+
+            Console.WriteLine(sonuc);
         }
     }
 }
