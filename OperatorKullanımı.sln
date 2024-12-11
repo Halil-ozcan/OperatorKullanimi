@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AritmetikselOperatorler", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorlerAlistirma1", "OperatorlerAlistirma1\OperatorlerAlistirma1.csproj", "{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorlerAlistirma2", "OperatorlerAlistirma2\OperatorlerAlistirma2.csproj", "{EA0140B5-214D-40AA-99BE-21E362E18EA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0140B5-214D-40AA-99BE-21E362E18EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0140B5-214D-40AA-99BE-21E362E18EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0140B5-214D-40AA-99BE-21E362E18EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0140B5-214D-40AA-99BE-21E362E18EA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
