@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AritmetikselOperatorler", "OperatorKullanımı\AritmetikselOperatorler.csproj", "{016043CC-1E79-4445-9396-91AF494EDCDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorlerAlistirma1", "OperatorlerAlistirma1\OperatorlerAlistirma1.csproj", "{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{016043CC-1E79-4445-9396-91AF494EDCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016043CC-1E79-4445-9396-91AF494EDCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016043CC-1E79-4445-9396-91AF494EDCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F03EB0-C712-41E6-9A5D-3635F0F6DB81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
