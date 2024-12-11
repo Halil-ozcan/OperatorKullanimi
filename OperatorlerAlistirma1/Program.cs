@@ -25,7 +25,8 @@ namespace OperatorlerAlistirma1
             Console.Clear();
 
             int yil = Convert.ToInt32(yilStr);
-            int mevcutYil = 2024;
+            //int mevcutYil = 2024;
+            int mevcutYil = DateTime.Now.Year;
             int yas = mevcutYil - yil;
 
             string mesaj = "Merhaba " + isim + " " + soyisim + " " + yas + " Yasindasiniz";
